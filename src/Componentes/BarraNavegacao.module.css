@@ -1,0 +1,13 @@
+.conteiner{
+    background-color: #141414;
+    padding: 80px;
+
+}
+
+.conteiner ul{
+    display: flex;
+    gap:15px;
+    list-style-type: none;
+    color:azure;
+
+}
